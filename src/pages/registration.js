@@ -6,6 +6,12 @@ let[email,Setemail]=useState("");
 let[password,Setpassword]=useState("")
 
 function handleSubmit(){
+return(
+    <> <p>changed part</p>
+    <h1>changes</h1>
+    </>
+   
+)
 
 }
     return(
@@ -45,3 +51,5 @@ function handleSubmit(){
         </>
     )
 }
+
+export default regiteruser;
