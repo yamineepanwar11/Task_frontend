@@ -7,7 +7,10 @@ let[password,Setpassword]=useState("")
 
 function handleSubmit(){
 return(
-    <p>changed part</p>
+    <> <p>changed part</p>
+    <h1>changes</h1>
+    </>
+   
 )
 
 }
